@@ -71,7 +71,7 @@ C --> |НЕТ| E[/Число не делится на 5/] --> Z
 <img width="1199" height="52" alt="image" src="https://github.com/user-attachments/assets/d9a9998d-6cfb-477e-9666-164ca6c9fd2c" />
 
 Перейдя по ссылке mermaid откроется на локальном порте. Вставим туда наш предыдущий код лдя проверки и получим тот же результат.
-<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/ff806d37-c653-4a57-8c02-4b5aeabbc99c" />
+<img width="1917" height="1092" alt="image" src="https://github.com/ianov-yegor-stud/IVANOV-LR3-IVT-ISY103B/commit/6af7f4c433deabbfd0857eb80387f0ab6a5cec90" />
 
 **Познакомившись с данным способом создания блок схем неплохо бы узнать почему создатели решили выбрать такое необычное название для своего проекта**
 Зададим вопрос одному из чат ботов, который наиболее хорошо показал себя в работе с предыдущими лабораторными работами - Deep Seek
